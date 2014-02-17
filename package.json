@@ -16,7 +16,7 @@
     "node": "*"
   },
   "dependencies": {
-    "sliced": "0.0.x",
+    "sliced": "escribano/sliced",
     "lodash": "1.3.x"
   },
   "devDependencies": {
